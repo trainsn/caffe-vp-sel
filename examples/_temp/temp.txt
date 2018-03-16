@@ -1,0 +1,4 @@
+/home/cad/下载/caffe-master/examples/images/fish-bike.jpg
+/home/cad/下载/caffe-master/examples/images/cat.jpg
+/home/cad/下载/caffe-master/examples/images/cat_gray.jpg
+/home/cad/下载/caffe-master/examples/images/cat gray.jpg

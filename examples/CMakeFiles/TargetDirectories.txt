@@ -1,0 +1,2 @@
+/home/cad/下载/caffe-master/examples/CMakeFiles/edit_cache.dir
+/home/cad/下载/caffe-master/examples/CMakeFiles/rebuild_cache.dir
